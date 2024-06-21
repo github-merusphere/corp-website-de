@@ -3,7 +3,7 @@
 banner:
   enable : true
   title : "Give Your customers human feeling touch **Like Never Before**"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, seddiam nonumy eirmod tempor invidunt ut labore et dolore nn magna"
+  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, seddiam nonumy eirmod tempor invidunt ut labore et dolore magna"
   image : "images/screenshots/banner-shot.png"
   video:
     enable : true
