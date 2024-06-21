@@ -12,7 +12,7 @@ logo_webp = true
 logo_text = "Copper"
 # purgeCSS
 purge_css = true
- 
+
 # Main Sections
 mainSections = ["blog"]
 # image gallery shortcode
@@ -28,14 +28,14 @@ custom_script = ""
 
 # copyright
 theme_copyright = true
-copyright = "Copyright by your company" # also change copyright in language.toml file
+copyright = "Copyright by MeruSphere" # also change copyright in language.toml file
 
 # Preloader
 [preloader]
 enable = false
 preloader = "images/preloader.png" # use jpg, png, svg or gif format.
 greetings = "Welcome to"
-greetings_to = "Copper"
+greetings_to = "MeruSphere"
 
 # Navigation button
 [navigation_button_bordered]
@@ -133,12 +133,12 @@ button = "I Accept"
 [[social]]
 title = "facebook"
 icon = "fab fa-facebook" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#" 
+link = "#"
 
 [[social]]
 title = "twitter"
 icon = "fab fa-twitter" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#" 
+link = "#"
 
 [[social]]
 title = "linkedin"

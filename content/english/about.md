@@ -13,7 +13,7 @@ mission:
   bulletpoints:
   - "Habit building in essential steps choose habit Good Things"
   - "Get an overview of Habit Calendars admiral general."
-  - "Start building habit with Habitify on platform to new"
+  # - "Start healthy platform with us"
 
 ################## Funfacts ###############
 funfacts:
@@ -22,15 +22,15 @@ funfacts:
   - name : "Launched in April of"
     count : "2015"
     extension : ""
-    
+
   - name : "Our product powers"
     count : "1000"
     extension : "+"
-    
+
   - name : "served customers"
     count : "15"
     extension : "M+"
-    
+
   - name : "Made by hand in"
     count : "250"
     extension : "+"

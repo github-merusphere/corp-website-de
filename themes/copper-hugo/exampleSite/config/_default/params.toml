@@ -9,10 +9,10 @@ logo_width = "152px"
 # if logo_webp set false, will not generate WEBP version of logo | default is true
 logo_webp = true
 # logo text will only show when logo is missing.
-logo_text = "Copper"
+logo_text = "MeruSphere "
 # purgeCSS
 purge_css = true
- 
+
 # Main Sections
 mainSections = ["blog"]
 # image gallery shortcode
@@ -28,14 +28,14 @@ custom_script = ""
 
 # copyright
 theme_copyright = true
-copyright = "Copyright by your company" # also change copyright in language.toml file
+copyright = "Copyright by MeruSphere" # also change copyright in language.toml file
 
 # Preloader
 [preloader]
 enable = false
 preloader = "images/preloader.png" # use jpg, png, svg or gif format.
 greetings = "Welcome to"
-greetings_to = "Copper"
+greetings_to = "MeruSphere "
 
 # Navigation button
 [navigation_button_bordered]
@@ -79,7 +79,7 @@ enableQQ = false # https://valine.js.org/en/configuration.html#enableQQ
 
 # seo meta data for OpenGraph / Twitter Card
 [metadata]
-keywords = ["Copper", "Hugo", "Gethugothemes", "Themefisher"]
+keywords = ["MeruSphere ", "Hugo", "Gethugothemes", "Themefisher"]
 description = "This is meta description"
 author = "Gethugothemes"
 image = "images/logo.png"                                       # this image will be used as fallback if a page has no image of its own
@@ -108,7 +108,7 @@ username = ""  # your username
 # Footer call to action
 [footer_call_to_action]
 enable = true
-title = "Join 75,000+ growing business That **Use Copper To Their Brand**"
+title = "Join 75,000+ growing business That **Use MeruSphere  To Their Brand**"
 [footer_cta_button]
 enable = true
 label = "Get Started With Us"
@@ -133,12 +133,12 @@ button = "I Accept"
 [[social]]
 title = "facebook"
 icon = "fab fa-facebook" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#" 
+link = "#"
 
 [[social]]
 title = "twitter"
 icon = "fab fa-twitter" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#" 
+link = "#"
 
 [[social]]
 title = "linkedin"
